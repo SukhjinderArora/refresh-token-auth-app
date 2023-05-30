@@ -4,7 +4,7 @@
 
 ## Development Workflow
 
-Run the following command this application locally on your system:
+Run the following commands to run this application locally on your system:
 
 ```
 cd server
