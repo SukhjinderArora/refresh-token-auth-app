@@ -15,3 +15,5 @@ npm start
 cd client
 npm start
 ```
+
+You can read the full article at: https://whatisweb.dev/react-and-nodejs-authentication-with-refresh-access-tokens-a-step-by-step-guide
