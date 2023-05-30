@@ -1,0 +1,18 @@
+.container {
+    background-color: #fff;
+    color: teal;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 999;
+}
+
+.iconContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: (-50%, -50%);
+    color: teal;
+}
