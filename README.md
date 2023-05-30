@@ -8,11 +8,13 @@ Run the following commands to run this application locally on your system:
 
 ```
 cd server
+npm install
 npm start
 ```
 
 ```
 cd client
+npm install
 npm start
 ```
 
